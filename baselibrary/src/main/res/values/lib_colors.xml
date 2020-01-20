@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="base_background">@color/color_e6e6e6</color>
+    <color name="dividerColor">@color/color_cccccc</color>
+    <color name="white">#ffffff</color>
+    <color name="translucent">#00000000</color>
+    <color name="transparent_99">#99000000</color>
+    <color name="unenable">@color/color_d8d8d8</color>
+
+    <color name="loadingTextColor">#999999</color>
+    <color name="color_e6e6e6">#e6e6e6</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_d8d8d8">#d8d8d8</color>
+
+</resources>

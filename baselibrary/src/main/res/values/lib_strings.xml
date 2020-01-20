@@ -1,0 +1,17 @@
+<resources>
+    <string name="lib_app_name">BaseLibrary</string>
+
+    <!-- 刷新 -->
+    <string name="lib_pulldownRefresh">下拉刷新</string>
+    <string name="lib_releaseRefresh">释放立即刷新</string>
+    <string name="lib_refreshing">加载中...</string>
+    <string name="lib_loadingMore">加载更多...</string>
+    <string name="lib_loadingEnd">没有更多内容</string>
+    <string name="lib_refreshComplete">更新完成.</string>
+    <string name="lib_refreshError">刷新失败</string>
+    <string name="lib_listEmpty">暂时没有任何内容</string>
+    <string name="lib_networkError">网络异常,请检查您的网络</string>
+    <string name="lib_loadRefresh">重新加载</string>
+    <string name="lib_loadNetworkError">网络未连接</string>
+
+</resources>

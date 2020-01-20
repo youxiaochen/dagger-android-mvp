@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- loadingview -->
+    <item type="id" name="tv_empty"/>
+    <item type="id" name="tv_refresh"/>
+    <item type="id" name="ll_error"/>
+    <item type="id" name="pb_loading"/>
+    <item type="id" name="mp_loading"/>
+
+    <!-- Toolbar -->
+    <item type="id" name="mToolbar"/>
+    <item type="id" name="mRootLayout"/>
+    <item type="id" name="iv_return"/>
+    <item type="id" name="tv_title"/>
+    <item type="id" name="iv_menu"/>
+
+    <!-- recyclerView -->
+    <item type="id" name="mLoadingView"/>
+    <item type="id" name="mRecyclerView"/>
+    <item type="id" name="mRefreshLayout"/>
+
+    <!-- RefreshView -->
+    <item type="id" name="iv_pull"/>
+    <item type="id" name="iv_progress"/>
+    <item type="id" name="tv_refreshState"/>
+
+
+
+</resources>
